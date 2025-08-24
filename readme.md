@@ -144,7 +144,7 @@
     <img alt="Gmail" width="48" src="https://img.icons8.com/color/48/gmail-new.png" style="background:white; border-radius:50%; padding:6px;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ruwanmadhu/" title="LinkedIn">
     <img alt="LinkedIn" width="48" src="https://img.icons8.com/color/48/linkedin.png" style="background:white; border-radius:50%; padding:6px;"/>
   </a>
   &nbsp;&nbsp;
@@ -152,7 +152,7 @@
     <img alt="GitHub" width="48" src="https://img.icons8.com/color/48/github--v1.png" style="background:white; border-radius:50%; padding:6px;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#" title="Facebook">
+  <a href="https://facebook.com/ruwanmadhu.me" title="Facebook">
     <img alt="Facebook" width="48" src="https://img.icons8.com/color/48/facebook-new.png" style="background:white; border-radius:50%; padding:6px;"/>
   </a>
 </p>
